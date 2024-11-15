@@ -19,7 +19,7 @@ twitter_username: "TheDeltaLogic"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: "minima"
-remote_theme: pages-themes/hacker@v0.2.0
+theme: "hacked-jekyll"
 
 
 
