@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Well met Traveler,
 
-Maybe say a some things about yourself.
+I am Sage, an aspiring cyber mage.
 
-Or maybe what you plan to blog about.
+This is my journey.
