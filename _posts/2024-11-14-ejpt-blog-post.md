@@ -21,4 +21,5 @@ The following guides were helpful to me:
 
 https://github.com/Dragkob/eJPT/blob/main/README.md
 
+https://www.reddit.com/r/eLearnSecurity/comments/17gx8mu/my_ejptv2_exam_experience_and_tips_for_success/
 
